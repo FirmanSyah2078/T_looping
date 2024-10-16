@@ -4,6 +4,6 @@ Kode pemrograman ```looping.cpp``` adalah sebuah program C++ yang mendemonstrasi
 
 ![Image-1](https://github.com/FirmanSyah2078/Tugas-looping/blob/main/Image-1.png)
 
-/../main/assets/images/electrocat.png
+Setelah meneliti penjelasan diatas, maka kita akan mencoba untuk ```run code```. Setelah itu kita akan diminta mengisi data dengan seperti dicontoh tugas diisi nominal 10.
 
-![Image-1](https://github.com/user-attachments/assets/04d7607e-7092-45a8-8503-2f08a3fd6121)
+![Image-1](https://github.com/FirmanSyah2078/Tugas-looping/blob/main/Image-2.png)
