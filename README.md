@@ -6,4 +6,4 @@ Kode pemrograman ```looping.cpp``` adalah sebuah program C++ yang mendemonstrasi
 
 Setelah meneliti penjelasan diatas, maka kita akan mencoba untuk ```run code```. Setelah itu kita akan diminta mengisi data dengan seperti dicontoh tugas diisi nominal 10.
 
-![Image-2](https://github.com/FirmanSyah2078/Tugas-looping/blob/main/Image-2.png)
+![Image-2](https://github.com/FirmanSyah2078/Tugas-looping/blob/main/Image-2.jpg)
