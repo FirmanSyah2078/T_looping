@@ -13,4 +13,4 @@ Maka, hasil akhir dari pemrogram ```looping.cppp``` adalah sebagai berikut :
 ![Iamage-3](https://github.com/FirmanSyah2078/Tugas-looping/blob/main/Image-3.jpg)
 
 
-Terimakasih, dan maaf apabila ada salah kata atau penulisan kurang jelas pak :grinning_face:
+Terimakasih, dan maaf apabila ada salah kata atau penulisan kurang jelas pak :grinning::pray:
